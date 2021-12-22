@@ -1,9 +1,9 @@
 # ElvUI-Glues-WotLK
-Retextures of the login, character selection, and character creation screens for use with ElvUI for Wrath of the Lich King, version 3.3.5a. Available in [BLP](https://github.com/Marotheit/ElvUI-Glues-WotLK/raw/main/ElvUI%20Glues%20for%20WotLK.zip) or [MPQ](https://github.com/Marotheit/ElvUI-Glues-WotLK/raw/main/patch-7.MPQ) format. These packages are not needed if you wish to use the ElvUI version of [LoginTweaks](https://model-changing.net/files/file/307-login-tweaks-wotlk/).
+Retextures of the login, character selection, and character creation screens for use with ElvUI for Wrath of the Lich King, version 3.3.5a. Available in [BLP](https://github.com/Marotheit/ElvUI-Glues-WotLK/raw/main/ElvUI%20Glues%20for%20WotLK.zip) or [MPQ](https://github.com/Marotheit/ElvUI-Glues-WotLK/raw/main/patch-7.MPQ) format.
 
-[Preview 1](https://user-images.githubusercontent.com/26125775/146995165-bc837f90-9a57-48cd-87f8-16f9bfa2ffef.png) |  [Preview 2](https://user-images.githubusercontent.com/26125775/146995273-8848a05b-6343-4cbd-b787-d3138cd0d9bd.png) | [Preview 3](https://user-images.githubusercontent.com/26125775/146995303-885f9b7a-43d0-42cb-adb5-a2a76ef372c6.png)
+[Preview 1](https://user-images.githubusercontent.com/26125775/146995165-bc837f90-9a57-48cd-87f8-16f9bfa2ffef.png) |  [Preview 2](https://user-images.githubusercontent.com/26125775/147044719-10c5ee4d-c7eb-4a38-b5c1-2e6a4d00f8af.png) | [Preview 3](https://user-images.githubusercontent.com/26125775/146995303-885f9b7a-43d0-42cb-adb5-a2a76ef372c6.png)
 
-Editing the main menu is a challenge, so I wanted to release this for other to build upon. Feel free to submit a pull request if you change anything to look better.
+Editing the main menu is a challenge, so I wanted to release this for others to build upon. Feel free to submit a pull request if you change anything to look better.
 
 ## Installation
 ### BLP Format:
